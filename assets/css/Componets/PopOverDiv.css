@@ -1,0 +1,30 @@
+.pop-over-div {
+    position: absolute;
+    background-color: #ffffff;
+    z-index: 99999;
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding-top: 10px;
+}
+
+.pop-info{
+    display: none;
+}
+
+.pop-over-div table {
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+}
+
+.pop-over-div table th {
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.pop-over-div table td {
+    border: 1px solid #ddd;
+}
