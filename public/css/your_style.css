@@ -1,0 +1,19 @@
+.logoBreakLine {
+    display: block !important;
+}
+
+.smart-style-2 #header #logo {
+    width: auto;
+    margin-top: 6px;
+}
+
+.smart-style-2 #header #logo img {
+    width: 50px;
+    margin-top: -11px;
+}
+
+#logoTitle {
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
