@@ -26,7 +26,7 @@
     "select2": "^4.0.6-rc.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.25.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "yarn": "^1.12.3"
   }
 }
